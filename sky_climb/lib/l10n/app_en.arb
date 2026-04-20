@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "Sky Climb",
+  "loading": "Loading…",
+  "play": "Play",
+  "settings": "Settings",
+  "wallet": "Wallet",
+  "retry": "Retry",
+  "exit": "Exit",
+  "lives": "Lives",
+  "combo": "Combo",
+  "maxCombo": "Max Combo",
+  "softCurrency": "Soft",
+  "hardCurrency": "Hard",
+  "add": "Add",
+  "spend": "Spend",
+  "insufficientFunds": "Insufficient funds"
+}
